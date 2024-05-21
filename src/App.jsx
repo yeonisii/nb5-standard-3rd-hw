@@ -24,7 +24,7 @@ function App() {
       <StudentList
       /* 필요한 props를 여기에 전달하세요. */
       />
-    </div>
+    </div> // 필요한 props를 전달하라는게 정확히 무슨 말인지 모르겠습니다...
   );
 }
 
